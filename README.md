@@ -1,2 +1,2 @@
-# main
-first_repository
+Read me
+26.09.2024
